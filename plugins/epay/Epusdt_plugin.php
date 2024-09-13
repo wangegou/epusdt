@@ -15,10 +15,15 @@ class Epusdt_plugin {
                 'type' => 'input',
                 'note' => '以http://或https://开头，末尾不要有斜线/',
             ],
+            	'appid' => [
+				'name' => 'APP ID',
+				'type' => 'input',
+				'note' => '输入EPUSDT的秘钥',
+			],
             'appkey' => [
                 'name' => 'API Key',
                 'type' => 'input',
-                'note' => 'Epusdt API Key',
+                'note' => '输入任意字符即可',
             ],
         ],
         'select' => null,
