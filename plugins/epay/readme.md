@@ -6,6 +6,10 @@
 
 ![alt text](image-1.png)
 
+# 2.1 新增支付方式
+
+![alt text](image-6.png)
+
 # 3：配置新增支付通道
 
 ![alt text](image-2.png)
