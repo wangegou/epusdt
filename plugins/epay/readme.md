@@ -12,7 +12,7 @@
 
 # 4：配置支付参数
 
-![alt text](image-3.png)
+![alt text](image-5.png)
 
 # 5：在你的网站里新增支付方法，支付标识：USDT
 
