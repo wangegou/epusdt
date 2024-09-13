@@ -15,7 +15,7 @@ class Epusdt_plugin {
                 'type' => 'input',
                 'note' => '以http://或https://开头，末尾不要有斜线/',
             ],
-            'appid' => [
+            'appkey' => [
                 'name' => 'API Key',
                 'type' => 'input',
                 'note' => 'Epusdt API Key',
